@@ -1,13 +1,21 @@
+<<<<<<< HEAD
 {
   "name": "marcador-fiesta",
   "version": "0.1.0",
   "private": true,
+=======
+
+{
+  "name": "marcador-fiesta",
+  "version": "1.0.0",
+>>>>>>> e5340795e2f3ce5043313e6fa7733a57fc8e0d0d
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "framer-motion": "^10.0.0",
@@ -19,5 +27,15 @@
     "tailwindcss": "^3.0.0",
     "postcss": "^8.0.0",
     "autoprefixer": "^10.0.0"
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.12.16",
+    "canvas-confetti": "^1.6.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8",
+    "@vitejs/plugin-react": "^4.0.3"
+>>>>>>> e5340795e2f3ce5043313e6fa7733a57fc8e0d0d
   }
 }
